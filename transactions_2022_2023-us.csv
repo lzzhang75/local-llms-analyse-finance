@@ -1,10 +1,10 @@
 Date,Name / Description,Expense/Income,Amount (USD)
-2023-12-30,McDonald,Expense,9.96
+2023-12-30,McDonald's,Expense,9.96
 2023-12-30,Safeway,Expense,17.53
-2023-12-30,Monthly Appartment Rent,Expense,451.0
+2023-12-30,Monthly Apartment Rent,Expense,451.0
 2023-12-30,Uber,Expense,12.46
 2023-12-29,Selling Paintings,Income,13.63
-2023-12-29,Spotify Ab By Adyen,Expense,12.19
+2023-12-29,Spotify,Expense,12.19
 2023-12-23,Macy’s,Expense,27.08
 2023-12-22,Consulting,Income,541.57
 2023-12-22,Aidsfonds,Expense,10.7
@@ -12,7 +12,7 @@ Date,Name / Description,Expense/Income,Amount (USD)
 2023-12-19,CalTrain,Expense,18.9
 2023-12-18,Kaiser Permanente,Expense,17.67
 2023-12-18,Safeway,Expense,8.81
-2023-12-18,Dick’s Sporting Good,Expense,6.94
+2023-12-18,Dick's Sporting Goods,Expense,6.94
 2022-11-26,Salary,Income,14.36
 2022-11-26,Disney World,Expense,19.27
 2022-11-26,The Cheesecake Factory,Expense,24.71
