@@ -1,24 +1,24 @@
 Transaction vs category,Transaction,Category
-McDonald's - Food,McDonald's,Food
-Safeway - Groceries,Safeway,Groceries
+McDonald's - Fast Food,McDonald's,Fast Food
+Safeway - Grocery,Safeway,Grocery
 Monthly Apartment Rent - Housing,Monthly Apartment Rent,Housing
 Uber - Transportation,Uber,Transportation
-Selling Paintings - Art,Selling Paintings,Art
+Selling Paintings - Art Sales,Selling Paintings,Art Sales
 Spotify AB by Adyen - Entertainment,Spotify AB by Adyen,Entertainment
-Macy's - Shopping,Macy's,Shopping
-Consulting - Services,Consulting,Services
+Macy's - Retail,Macy's,Retail
+Consulting - Professional Services,Consulting,Professional Services
 Aidsfonds - Charity,Aidsfonds,Charity
 CalTrain - Transportation,CalTrain,Transportation
 Kaiser Permanente - Healthcare,Kaiser Permanente,Healthcare
-Dick's Sporting Goods - Sports,Dick's Sporting Goods,Sports
+Dick's Sporting Goods - Retail,Dick's Sporting Goods,Retail
 Salary - Income,Salary,Income
 Disney World - Entertainment,Disney World,Entertainment
 The Cheesecake Factory - Dining,The Cheesecake Factory,Dining
-Freelancing - Income,Freelancing,Income
-Venmo - Finance,Venmo,Finance
-Blogging - Income,Blogging,Income
+Freelancing - Self-Employment,Freelancing,Self-Employment
+Venmo - Financial Services,Venmo,Financial Services
+Blogging - Online Income,Blogging,Online Income
 Lyft - Transportation,Lyft,Transportation
 Apple Services - Technology,Apple Services,Technology
-Amazon - Shopping,Amazon,Shopping
-24 Hour Fitness Monthly - Fitness,24 Hour Fitness Monthly,Fitness
+Amazon - Retail,Amazon,Retail
+24 Hour Fitness Monthly - Gym Membership,24 Hour Fitness Monthly,Gym Membership
 Audible - Entertainment,Audible,Entertainment
